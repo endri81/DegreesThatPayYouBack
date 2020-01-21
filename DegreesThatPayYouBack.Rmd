@@ -52,10 +52,28 @@ summary(degrees)
 
 
 # Currency and strings and percents, oh my!
+
 Notice that our salary data is in currency format, which R considers a string. Let's strip those special characters using the gsub function and convert all of our columns except College.Major to numeric.
 
 While we're at it, we can also convert the Career.Percent.Growth column to a decimal value.
 
+```{r}
+# Clean up the data
+degrees_clean <- degrees %>% 
+    mutate_at(vars(Starting.Median.Salary:Percentile.90), function(x) as.numeric(gsub("[\\$,]","",x))) %>%
+mutate(Career.Percent.Growth = Career.Percent.Growth / 100)  
+```
 
 
+# The elbow method
+
+Great! Now that we have a more manageable dataset, let's begin our clustering analysis by determining how many clusters we should be modeling. The best number of clusters for an unlabeled dataset is not always a clear-cut answer, but fortunately there are several techniques to help us optimize. We'll work with three different methods to compare recommendations:
+
+  - Elbow Method
+
+  - Silhouette Method
+
+  - Gap Statistic Method
+
+First up will be the Elbow Method. This method plots the percent variance against the number of clusters. The "elbow" bend of the curve indicates the optimal point at which adding more clusters will no longer explain a significant amount of the variance. To begin, let's select and scale the following features to base our clusters on: Starting.Median.Salary, Mid.Career.Median.Salary, Perc.10, and Perc.90. Then we'll use the fancy fviz_nbclust function from the factoextra library to determine and visualize the optimal number of clusters.
 
