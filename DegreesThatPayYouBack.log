@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.7.23)  21 JAN 2020 19:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.7.23)  1 FEB 2020 12:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1144,34 +1144,219 @@ LaTeX Font Info:    Try loading font information for TS1+lmr on input line 249.
 (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 265.
+
+Package xcolor Warning: Incompatible color definition on input line 265.
+
+
+Package xcolor Warning: Incompatible color definition on input line 276.
+
+
+Package xcolor Warning: Incompatible color definition on input line 276.
+
+
+Package xcolor Warning: Incompatible color definition on input line 276.
+
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 265.
+
+Package xcolor Warning: Incompatible color definition on input line 276.
+
+
+Package xcolor Warning: Incompatible color definition on input line 276.
+
+
+<DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-4-1.pdf, id=81, 355.327
+5pt x 279.0425pt>
+File: DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-4-1.pdf Graphic fi
+le (type pdf)
+<use DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-4-1.pdf>
+Package pdftex.def Info: DegreesThatPayYouBack_files/figure-latex/unnamed-chunk
+-4-1.pdf used on input line 278.
+(pdftex.def)             Requested size: 355.33745pt x 279.05032pt.
+
+Package xcolor Warning: Incompatible color definition on input line 291.
+
+
+Package xcolor Warning: Incompatible color definition on input line 299.
+
+
+Package xcolor Warning: Incompatible color definition on input line 299.
+
+
+<DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-5-1.pdf, id=82, 355.327
+5pt x 279.0425pt>
+File: DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-5-1.pdf Graphic fi
+le (type pdf)
+<use DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-5-1.pdf>
+Package pdftex.def Info: DegreesThatPayYouBack_files/figure-latex/unnamed-chunk
+-5-1.pdf used on input line 301.
+(pdftex.def)             Requested size: 355.33745pt x 279.05032pt.
+[3 <./DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-4-1.pdf>]
+
+Package xcolor Warning: Incompatible color definition on input line 322.
+
+
+Package xcolor Warning: Incompatible color definition on input line 334.
+
+
+Package xcolor Warning: Incompatible color definition on input line 334.
+
+
+<DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-6-1.pdf, id=95, 355.327
+5pt x 279.0425pt>
+File: DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-6-1.pdf Graphic fi
+le (type pdf)
+<use DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-6-1.pdf>
+Package pdftex.def Info: DegreesThatPayYouBack_files/figure-latex/unnamed-chunk
+-6-1.pdf used on input line 336.
+(pdftex.def)             Requested size: 355.33745pt x 279.05032pt.
+[4 <./DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-5-1.pdf>]
+
+Package xcolor Warning: Incompatible color definition on input line 347.
+
+
+Package xcolor Warning: Incompatible color definition on input line 363.
+
+
+Package xcolor Warning: Incompatible color definition on input line 363.
+
+
+Package xcolor Warning: Incompatible color definition on input line 373.
+
+[5 <./DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-6-1.pdf>]
+
+Package xcolor Warning: Incompatible color definition on input line 388.
+
+
+Package xcolor Warning: Incompatible color definition on input line 388.
+
+
+<DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-8-1.pdf, id=121, 349.30
+5pt x 278.03876pt>
+File: DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-8-1.pdf Graphic fi
+le (type pdf)
+<use DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-8-1.pdf>
+Package pdftex.def Info: DegreesThatPayYouBack_files/figure-latex/unnamed-chunk
+-8-1.pdf used on input line 390.
+(pdftex.def)             Requested size: 349.30946pt x 278.04231pt.
+
+Package xcolor Warning: Incompatible color definition on input line 415.
+
+[6 <./DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-8-1.pdf>]
+
+Package xcolor Warning: Incompatible color definition on input line 425.
+
+
+Package xcolor Warning: Incompatible color definition on input line 425.
+
+
+Package xcolor Warning: Incompatible color definition on input line 454.
+
+
+Package xcolor Warning: Incompatible color definition on input line 468.
+
+
+Package xcolor Warning: Incompatible color definition on input line 468.
+
+
+<DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-10-1.pdf, id=138, 345.2
+9pt x 279.0425pt>
+File: DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-10-1.pdf Graphic f
+ile (type pdf)
+<use DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-10-1.pdf>
+Package pdftex.def Info: DegreesThatPayYouBack_files/figure-latex/unnamed-chunk
+-10-1.pdf used on input line 470.
+(pdftex.def)             Requested size: 345.29967pt x 279.05032pt.
+[7]
+
+Package xcolor Warning: Incompatible color definition on input line 483.
+
+
+Package xcolor Warning: Incompatible color definition on input line 496.
+
+
+Package xcolor Warning: Incompatible color definition on input line 496.
+
+
+<DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-11-1.pdf, id=145, 345.2
+9pt x 284.06125pt>
+File: DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-11-1.pdf Graphic f
+ile (type pdf)
+<use DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-11-1.pdf>
+Package pdftex.def Info: DegreesThatPayYouBack_files/figure-latex/unnamed-chunk
+-11-1.pdf used on input line 498.
+(pdftex.def)             Requested size: 345.32074pt x 284.08653pt.
+[8 <./DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-10-1.pdf>]
+
+Package xcolor Warning: Incompatible color definition on input line 511.
+
+
+Package xcolor Warning: Incompatible color definition on input line 524.
+
+
+Package xcolor Warning: Incompatible color definition on input line 524.
+
+
+<DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-12-1.pdf, id=159, 345.2
+9pt x 279.0425pt>
+File: DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-12-1.pdf Graphic f
+ile (type pdf)
+<use DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-12-1.pdf>
+Package pdftex.def Info: DegreesThatPayYouBack_files/figure-latex/unnamed-chunk
+-12-1.pdf used on input line 526.
+(pdftex.def)             Requested size: 345.29967pt x 279.05032pt.
+[9 <./DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-11-1.pdf>]
+
+Package xcolor Warning: Incompatible color definition on input line 553.
+
+
+Package xcolor Warning: Incompatible color definition on input line 558.
+
+
+Package xcolor Warning: Incompatible color definition on input line 558.
+
+[10 <./DegreesThatPayYouBack_files/figure-latex/unnamed-chunk-12-1.pdf>]
+
+Package xcolor Warning: Incompatible color definition on input line 579.
+
+LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 582
+.
+(/usr/share/texmf/tex/latex/lm/ts1lmtt.fd
+File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+Package xcolor Warning: Incompatible color definition on input line 584.
+
+
+Package xcolor Warning: Incompatible color definition on input line 584.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 586.
+[11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 586.
 (./DegreesThatPayYouBack.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 265.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 265.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 586.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 586.
 Package rerunfilecheck Info: File `DegreesThatPayYouBack.out' has not changed.
-(rerunfilecheck)             Checksum: 5A591FF646F7A8E290421838E96A798E;1194.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 265.
+(rerunfilecheck)             Checksum: 59D04BA8E6C6AB5CCD8773A752404030;2724.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 586.
  ) 
 Here is how much of TeX's memory you used:
- 14510 strings out of 494944
- 207592 string characters out of 6180677
- 323742 words of memory out of 5000000
- 17518 multiletter control sequences out of 15000+600000
- 37520 words of font info for 59 fonts, out of 8000000 for 9000
+ 14649 strings out of 494944
+ 211117 string characters out of 6180677
+ 324167 words of memory out of 5000000
+ 17598 multiletter control sequences out of 15000+600000
+ 38987 words of font info for 74 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 34i,5n,35p,506b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,5n,35p,506b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/d
 vips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmtk10.pfb></usr/share/texmf
 /fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtti
 10.pfb>
-Output written on DegreesThatPayYouBack.pdf (2 pages, 157781 bytes).
+Output written on DegreesThatPayYouBack.pdf (11 pages, 241731 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 8233 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 226 PDF objects out of 1000 (max. 8388607)
+ 184 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 8340 words of extra memory for PDF output out of 10000 (max. 10000000)
 
